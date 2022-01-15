@@ -27,12 +27,12 @@
 - [✓] Semster 1
   - [[✓] Gs222 , GS232, Gs240, Gs606  
 
-
+- [✓] Semster 2
+  - [✓] Gs645 , GS741, Gs752 
 
 ### Not yet Completed Column x
 
-- [✓] Semster 2
-  - [ ] Gs645 , GS741, Gs752 
+
 
 - [✓] Semster 3
   - [ ] Gs247 , GS641, Gs740 
