@@ -38,7 +38,7 @@
   - [ ] Gs247 , GS641, Gs740 
 
 - [x] Semster 4
-  - [ ] G642 
+  - [ ] G642 ，Education and Law 
 
 - [x] comprehensive examinamtions 
   - [ ] Gs259 THSIS WRITING
