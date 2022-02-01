@@ -2,6 +2,11 @@ Bank Name: union Bank of the philippines
 Account Name: Gino Concan
 Bank Account: 109421331861
 
+Gino Concan
+Bank account: 0366476105
+Bank: LandBank
+
+
 Bank Name: BPI FAMILY BANK (SAVINGS ACCOUNT)
 Account Name: Maria. Lourdes Chiquito
 Bank Account: 5626789325
