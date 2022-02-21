@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"coddx.taskBoard.fileList": "TODO.md, README.md, Semeter3/Tasklist3.md"
+	}
+
+}
