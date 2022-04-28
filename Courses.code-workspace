@@ -5,7 +5,8 @@
 		}
 	],
 	"settings": {
-		"coddx.taskBoard.fileList": "TODO.md, README.md, Semeter3/Tasklist3.md"
+		
+		"coddx.taskBoard.fileList": "TODO.md, ./Semeter3/Tasklist3.md"
 	}
 
 }

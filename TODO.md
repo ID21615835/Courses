@@ -12,15 +12,16 @@ Project Description
 
 ### Todo
 
-- [ ] Semster 4 - G642 ，Education and Law; Gs259 THSIS WRITING  
-- [ ] Semster 5 - comprehensive examinamtions  
+- [ ] Semester 5 - Gs259 THSIS WRITING  
+- [ ] Semester 6 - comprehensive examinamtions  
 
 ### In Progress
 
-- [ ] Semster 3 -  Gs247 , GS641, Gs740  
+- [ ] Semester 4 - G642 ，Education and Law  
 
 ### Done ✓
 
-- [x] Semster 2 - Gs645 , GS741, Gs752  
-- [x] Semster 1 - Gs222 , GS232, Gs240, Gs606  
+- [x] Semester 3 -  Gs247 , GS641, Gs740  
+- [x] Semester 2 - Gs645 , GS741, Gs752  
+- [x] Semester 1 - Gs222 , GS232, Gs240, Gs606  
 
